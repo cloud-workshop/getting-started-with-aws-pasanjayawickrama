@@ -12,3 +12,9 @@ https://www.youtube.com/watch?v=ubCNZRNjhyo
 
 # Watch the following video on getting started with Serverless
 https://www.youtube.com/watch?v=CkbkMznVqQk
+
+# Result
+
+- [x] Created an AWS account
+- [x] Watched getting started with AWS video
+- [x] Watched getting started with serverless video
